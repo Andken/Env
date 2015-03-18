@@ -7,7 +7,7 @@ if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
 fi
 
-export PATH=/home/ben_andken/bin:/home/build:/home/msijka/bin:/home/msijka/bin/backup:/usr/pkg/bin:$PATH
+export PATH=/u/benjamia/bin:/usr/software/rats/bin:/usr/pkg/bin:$PATH
 #alias emacs="emacs.sh"
 alias grep='grep --color=auto'
 alias cscope='cscope -d -p3'
