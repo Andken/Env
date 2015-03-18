@@ -100,3 +100,5 @@
 
 (setq mouse-yank-at-point t)
  	
+(setq gud-gdb-command-name "/mnt/project/granite/gdb/7.8/bin/gdb")
+
