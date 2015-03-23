@@ -23,6 +23,6 @@ export SVN_EDITOR
 
 if [ -a "/mnt/project/granite/gdb/7.8/bin/gdb" ]
 then
-    alias "gdb" "/mnt/project/granite/gdb/7.8/bin/gdb -annotate=3"
+    alias gdb="/mnt/project/granite/gdb/7.8/bin/gdb -annotate=3"
 fi
 
