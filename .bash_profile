@@ -7,14 +7,3 @@ fi
 
 # User specific environment and startup programs
 
-PATH=$PATH:$HOME/bin
-
-export PATH
-
-EDITOR="emacs"
-export EDITOR
-
-SVN_EDITOR=EDITOR
-export SVN_EDITOR
-
-unset USERNAME
