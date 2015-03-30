@@ -1,4 +1,3 @@
-# .bashrc
 
 # User specific aliases and functions
 
@@ -18,7 +17,7 @@ alias cscope='cscope -d -p3'
 EDITOR="emacs"
 export EDITOR
 
-SVN_EDITOR=EDITOR
+SVN_EDITOR=/u/qa/tools/svn-editor
 export SVN_EDITOR
 
 if [ -a "/mnt/project/granite/gdb/7.8/bin/gdb" ]
